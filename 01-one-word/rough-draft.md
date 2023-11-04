@@ -5,10 +5,8 @@
 
 ## Rough Draft
 
-# Just
+# Irrational
 
-I ask for Twitter help when stuck. "Just" makes me feel stupid. Crowdsourcing is great, but that word hurts.
+men = rational, level-headed; women = overly emotional, IRRATIONAL
 
-We must step out of our perspective. Imagine explaining to a past self. Hypertext adds context. Knowledge grows.
-
-Avoid assumptions in docs, posts, tutorials. "Just" assumes too much. Learning buzzwords is tough. Think before suggesting "just."
+undermining credibility, not being taken seriously, having to double check facts, feeling less than, women´s thoughts being less valuable/reliable than those of men
