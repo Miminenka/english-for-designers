@@ -14,13 +14,6 @@
 Imagine saying something you know for a fact is true and men not believing you because you´re a woman. Or even belittling you. But when a guy says the same thing, he´s being praised for it. 
 It´s a pretty shitty feeling...
 
-**“Irrational”**
-
-As in “**Irrational** update your ruby gems, generate a new SSH key, and run a git rebase…“
-
-“**Irrational** clone the dev branch, add those three grunt tasks, and recompile…”
-
-“**Irrational** use this <del>software/platform/toolkit/methodology</del> <ins>software, platform, toolkit, method</ins>…”
 
 ### Thesis Statement
 
