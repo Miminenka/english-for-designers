@@ -1,4 +1,4 @@
-# “Just”
+# “Irrational”
 
 by [Brad Frost](https://bradfrost.com)
 
@@ -6,33 +6,21 @@ by [Brad Frost](https://bradfrost.com)
 
 - - -
 
-I feel like an idiot while doing my job. A lot.
+Since when does emotional equal irrational?  
 
-Now there’s a damn good chance I’m actually an idiot, but the self-respecting part of me wants to challenge that notion.
+Imagine saying something you know for a fact is true and men not believing you because you´re a woman. Or even belittling you. But when a guy says the same thing, he´s being praised for it. It´s a pretty shitty feeling...
 
-When I get stuck on a task or am looking for recommendations for tools, resources, solutions, or whatever, I often take to Twitter to ask for help.
+The word "irrational" in english dictionary describes behaviors or thoughts not based on reason or clear thinking. It´s pretty neutral, right? 
 
-Seconds after posting my quandary, my stream gets flooded with a host of advice, links, insights, and opinions. This “crowd-sourcing my knowledgesphere” is a wonderful thing. But one word in all those proffered solutions tends to stick out in my mind like a jagged, rusty nail ready to figuratively jam itself into my eye socket.
+In many situations, it´s okay to use the term "irrational". The use of this word becomes problematic when it is unfairly and regularly applied to women. This is because of gender biases that have depicted women as too emotional. The fact that women are usually more emotional doesn´t mean they can´t think clearly. 
 
-**“Just…”**
+The word "irrational" bothers me because it perpetuates harmful stereotypes about women. Women have always been painted as emotional, moody, and irrational - unlike men who are supposedly rational and level-headed. The use of this word reinforces these stereotypes. It labels women as emotional rather than thoughtful. This actually has real consequences. Women are often not taken seriously - from workplace discrimination to problems in personal and social lives. It can have impact on their mental health and can make women feel less than.
 
-As in “**Just** update your ruby gems, generate a new SSH key, and run a git rebase…“
+The overuse of the word "irrational" to describe women can undermine their credibility. Women's opinions or decisions are often dismissed as irrational and based on emotions. It can become quite challenging for them to be taken seriously. This can interfere with their participation in important decision-making processes. It adds to the idea that women´s thoughts are less valuable or less reliable than those of men - which feels awful.
+ 
+This is a problem even in political discussions where everyone should be equal. Accusing women of being irrational again serves to silence and discourage them from speaking out. This is a significant barrier to achieving a more inclusive society where women and men are equal.
 
-“**Just** clone the dev branch, add those three grunt tasks, and recompile…”
-
-“**Just** use this software, platform, toolkit, method…”
-
-“Just” makes me feel like an idiot. “Just” presumes I come from a specific background and studied certain courses in university. And fluent in certain technologies. And have read all the right books, articles, and resources. “Just” is a dangerous word.
-
-We approach problems equipped with our own set of experiences, perspective, and skills. It’s a struggle to step outside of our own perspective when communicating with others, but it’s essential to do so.
-
-The amount of available knowledge in our field (or any field) is growing larger, more complex, and more segmented all the time. That everyone has downloaded the same fundamental knowledge on any topic is becoming less and less probable. Because of this, we have to be careful not to make too many assumptions in our documentation, blog posts, tutorials, and communications.
-
-Imagine yourself explaining a particular task to an earlier version of yourself. Once upon a time, you didn’t know what you know now. Provide context. The beauty of [hypertext](https://en.wikipedia.org/wiki/Hypertext) is that we’re able to add much-needed context, fast. It’s helpful for newbies but easy enough for those already in-the-know to scan over. And making documentation more human-readable benefits everyone.
-
-I don’t envy those just entering the field of web development. Besides learning the basics, there’s an expectation to be proficient in an endless laundry list of buzzwords and technologies. I’m seven years into my career and still feel like I’m still on Chapter 1 of the Big Book of Web Design.
-
-So think twice before suggesting someone “just” [insert any task here]. You just might make them feel like an idiot.
+In conclusion, the word "irrational" itself is not negative, it´s neutral. The problem is its frequent association with women. This perpetuates stereotypes and undermines their credibility. Everyone should be aware of the gendered connotations of words like "irrational". This way we can all feel equal and important.
 
 ## Process
 
