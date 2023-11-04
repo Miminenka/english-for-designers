@@ -1,10 +1,5 @@
 # “Irrational”
 
-by [Brad Frost](https://bradfrost.com)
-
-28 Jan 2014
-
-- - -
 
 Since when does emotional equal irrational?  
 
@@ -22,7 +17,6 @@ This is a problem even in political discussions where everyone should be equal. 
 
 In conclusion, the word "irrational" itself is not negative, it´s neutral. The problem is its frequent association with women. This perpetuates stereotypes and undermines their credibility. Everyone should be aware of the gendered connotations of words like "irrational". This way we can all feel equal and important.
 
-## Process
 
 - [Rough Draft](rough-draft.md) (word dump, sketch)
 - [First Draft](first-draft.md) (make sense, cleanup)
