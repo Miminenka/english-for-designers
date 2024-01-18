@@ -51,7 +51,13 @@ Although I initially thought of using this technique for my bachelor's film, the
 
 ![Write an alternative text description.](img/featured-project-01.png)
 
-popisek
+A 3D animated adventure about Fiona the frog that I am currently working on. 
+
+In her cozy cottage, Fiona is excitedly preparing a delightful tea party for her animal friends. Despite her efforts, Fiona becomes sad when her friends don't show up. Sadly, she starts putting away the dishes and cupcakes, thinking her party evening is ruined. 
+
+All of a sudden she hears a knock on the door! It's Oliver the mouse, bearing cheese and Fiona's favourite flower as gifts. Fiona's frown turns upside down as she welcomes Oliver with a tight hug. Her home is soon filled with joy as they share memorable moments together. 
+
+"Fiona the Frog's Delightful Tea Party" is a heartwarming tale of friendship and surprise, showing us that the best moments often come when we least expect them. This story for everyone, filled with warmth and joy, reminds us all that simple tea parties can turn into magical celebrations of friendship.
 
 <!-- Use the same stucture above for the rest of your featured projects. -->
 
