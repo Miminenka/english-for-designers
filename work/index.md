@@ -4,7 +4,7 @@
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Stylized 3D animation of a hidden world of maggots living in a store-bought meat.](img/food-chain.gif)
+![Stylized 3D animation of a hidden world of maggots living in a store-bought meat.](img/*.jpg/*.png/food-chain.gif)
 
 This was my first 3D animation where the theme of the "Hidden World" became both inspiration and a challenge. Despite my aversion to insects and many nightmares about maggots during its creation, this project served as a transformative learning experience.
 
@@ -16,7 +16,7 @@ I have a passion for details, yet creating intricate 3D scenes is a bit of a gam
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![stopmotion animation of a clay character waiting for their loved one to come home. When the second character finally arrives they hug and fuse into a clay ball that tranforms into a baby.](img/How-Babies-Are-Made.gif)
+![stopmotion animation of a clay character waiting for their loved one to come home. When the second character finally arrives they hug and fuse into a clay ball that tranforms into a baby.](img/*.jpg/*.png/How-Babies-Are-Made.gif)
 
 A short stop motion animation (claymation) about waiting for a loved one to finally come home.
 
@@ -29,13 +29,13 @@ Although I initially thought of using this technique for my bachelor's film, the
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Stylized 3D model of a cottage in a fairytale forest. The cottage is just a little bit bigger than mushrooms and has a cozy terrace.](img/fionas-house.png)
+![Stylized 3D model of a cottage in a fairytale forest. The cottage is just a little bit bigger than mushrooms and has a cozy terrace.](img/*.jpg/*.png/fionas-house.png)
 
-![Stylized 3D model of a kitchen inside a cottage with pink cabinets, flowers, white table and chairs and many cute teacups.](img/Fionas-kitchen.png)
+![Stylized 3D model of a kitchen inside a cottage with pink cabinets, flowers, white table and chairs and many cute teacups.](img/*.jpg/*.png/Fionas-kitchen.png)
 
-![Model of a 3D sculpted stylized frog wearing a white floral dress.](img/fiona.png)
+![Model of a 3D sculpted stylized frog wearing a white floral dress.](img/*.jpg/*.png/fiona.png)
 
-![Model of a 3D sculpted stylized white mouse wearing brown trousers and a red bowtie with a model of cheese and a flower next to him.](img/oliver.png)
+![Model of a 3D sculpted stylized white mouse wearing brown trousers and a red bowtie with a model of cheese and a flower next to him.](img/*.jpg/*.png/oliver.png)
 
 A 3D animated adventure about Fiona the frog that I am currently working on. 
 
