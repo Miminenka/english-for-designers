@@ -18,14 +18,7 @@
 ## Miroslava Jančárová
 Hey, I'm Mimi, an animation student with a passion for pushing the boundaries of creativity. I find joy in experimenting with various art media, striving to bring imagination to life in every project I undertake.
 
-## Featured Projects
-
-This was my first 3D animation where the theme of the "Hidden World" became both inspiration and a challenge. Despite my aversion to insects and many nightmares about maggots during its creation, this project served as a transformative learning experience.
-
-Crafted within three intense months, this short film reflects a leap in my animation skills. As I reflect on "Food Chain" months later, I now notice numerous mistakes. I see this as a positive sign – a reminder that growth comes from learning and acknowledging errors.
-
-I have a passion for details, yet creating intricate 3D scenes is a bit of a gamble – there's always the exciting possibility of my laptop exploding during rendering. This experience has become a lesson in patience for me.
-
+## A Selection Of My Projects
 
 ### Food Chain
 
@@ -33,9 +26,11 @@ I have a passion for details, yet creating intricate 3D scenes is a bit of a gam
 
 ![Write an alternative text description.](img/featured-project-01.png)
 
-- A short description about the project — *the what*.
-- A short description about the significance of the project — *the whys*.
-- A short description about the outcome of the project — *the result or takeaway*.
+This was my first 3D animation where the theme of the "Hidden World" became both inspiration and a challenge. Despite my aversion to insects and many nightmares about maggots during its creation, this project served as a transformative learning experience.
+
+Crafted within three intense months, this short film reflects a leap in my animation skills. As I reflect on "Food Chain" months later, I now notice numerous mistakes. I see this as a positive sign – a reminder that growth comes from learning and acknowledging errors.
+
+I have a passion for details, yet creating intricate 3D scenes is a bit of a gamble – there's always the exciting possibility of my laptop exploding during rendering. This experience has become a lesson in patience for me.
 
 <!-- Use the same stucture above for the rest of your featured projects. -->
 
