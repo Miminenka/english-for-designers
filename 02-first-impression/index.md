@@ -13,7 +13,7 @@
 
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
-![Miroslava Jančárová.](img/surname-headshot.jpg)
+![Miroslava Jančárová.](img/jancarova-headshot.jpg)
 
 Hey, I'm Mimi, an animation student with a passion for pushing the boundaries of creativity. I find joy in experimenting with various art media, striving to bring imagination to life in every project I undertake.
 
