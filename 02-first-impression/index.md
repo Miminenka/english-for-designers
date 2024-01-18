@@ -49,7 +49,10 @@ Although I initially thought of using this technique for my bachelor's film, the
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](img/*.jpg/*.png/fionas-house.png).(img/*.jpg/*.png/Fionas-kitchen.png).(img/*.jpg/*.png/fiona.png).(img/*.jpg/*.png/oliver.png)
+![Write an alternative text description.](img/*.jpg/*.png/fionas-house.png)
+(img/*.jpg/*.png/Fionas-kitchen.png)
+(img/*.jpg/*.png/fiona.png)
+(img/*.jpg/*.png/oliver.png)
 
 A 3D animated adventure about Fiona the frog that I am currently working on. 
 
