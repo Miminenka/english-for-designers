@@ -13,7 +13,7 @@
 
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
-![Mimi Jancarova tying up her hair while standing in front of a projection of famous paintings in a modern gallery.](jancarova-headshot.jpg)
+![Mimi Jancarova tying up her hair while standing in front of a projection of famous paintings in a modern gallery.](02-first-impression/img/*.jpg/*.png/jancarova-headshot.jpg)
 
 ## Miroslava Jančárová
 Hey, I'm Mimi, an animation student with a passion for pushing the boundaries of creativity. I find joy in experimenting with various art media, striving to bring imagination to life in every project I undertake.
