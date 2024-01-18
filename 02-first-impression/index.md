@@ -32,5 +32,26 @@ Crafted within three intense months, this short film reflects a leap in my anima
 
 I have a passion for details, yet creating intricate 3D scenes is a bit of a gamble – there's always the exciting possibility of my laptop exploding during rendering. This experience has become a lesson in patience for me.
 
+### Where there is Love there is Life
+
+<!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
+
+![Write an alternative text description.](img/featured-project-01.png)
+
+A short stop motion animation (claymation) about waiting for a loved one to finally come home.
+
+I've always wanted to give stop-motion animation a shot, and diving into this project was both interesting and challenging. I quickly learned that precision and patience are key – move anything by a millimeter, and boom, the whole scene transforms. 
+
+Although I initially thought of using this technique for my bachelor's film, the reality check hit hard – it's pretty time-consuming and complex. Still, I enjoy the hands-on aspect of crafting and molding my creations. I'm thinking about making a proper stop-motion film in the near future. So stay tuned!
+
+
+### Fiona the Frog's Delightful Tea Party
+
+<!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
+
+![Write an alternative text description.](img/featured-project-01.png)
+
+popisek
+
 <!-- Use the same stucture above for the rest of your featured projects. -->
 
