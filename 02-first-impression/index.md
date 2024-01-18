@@ -24,7 +24,7 @@ Hey, I'm Mimi, an animation student with a passion for pushing the boundaries of
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](food-chain.gif)
+![Write an alternative text description.](02-first-impression/img/*.jpg/*.png/food-chain.gif)
 
 This was my first 3D animation where the theme of the "Hidden World" became both inspiration and a challenge. Despite my aversion to insects and many nightmares about maggots during its creation, this project served as a transformative learning experience.
 
