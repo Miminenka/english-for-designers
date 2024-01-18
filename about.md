@@ -1,4 +1,4 @@
-![Me tying up my hair while standing in front of a projection of famous paintings in a modern gallery.](img/*.jpg/*.png/jancarova-headshot.jpg)
+![Me tying up my hair while standing in front of a projection of famous paintings in a modern gallery.](img/jancarova-headshot.jpg)
 
 Hey, I'm Mimi, an animation student with a passion for pushing the boundaries of creativity. I find joy in experimenting with various art media, striving to bring imagination to life in every project I undertake.
 
