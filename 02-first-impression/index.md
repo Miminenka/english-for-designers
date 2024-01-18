@@ -20,9 +20,14 @@ Hey, I'm Mimi, an animation student with a passion for pushing the boundaries of
 
 ## Featured Projects
 
-A short description about the work.
+This was my first 3D animation where the theme of the "Hidden World" became both inspiration and a challenge. Despite my aversion to insects and many nightmares about maggots during its creation, this project served as a transformative learning experience.
 
-### Featured Project 1 Title
+Crafted within three intense months, this short film reflects a leap in my animation skills. As I reflect on "Food Chain" months later, I now notice numerous mistakes. I see this as a positive sign – a reminder that growth comes from learning and acknowledging errors.
+
+I have a passion for details, yet creating intricate 3D scenes is a bit of a gamble – there's always the exciting possibility of my laptop exploding during rendering. This experience has become a lesson in patience for me.
+
+
+### Food Chain
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
@@ -34,11 +39,3 @@ A short description about the work.
 
 <!-- Use the same stucture above for the rest of your featured projects. -->
 
-## Notes
-
-Numbered comments about each featured project as presenter notes or speaking points.
-
-1. …
-2. …
-3. …
-<!-- And so on. -->
