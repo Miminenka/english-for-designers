@@ -15,6 +15,7 @@
 
 ![Mimi Jancarova tying up her hair while standing in front of a projection of famous paintings in a modern gallery.](jancarova-headshot.jpg)
 
+## Miroslava Jančárová
 Hey, I'm Mimi, an animation student with a passion for pushing the boundaries of creativity. I find joy in experimenting with various art media, striving to bring imagination to life in every project I undertake.
 
 ## Featured Projects
