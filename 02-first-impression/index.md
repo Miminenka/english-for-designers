@@ -51,6 +51,8 @@ Although I initially thought of using this technique for my bachelor's film, the
 
 ![Write an alternative text description.](img/*.jpg/*.png/fionas-house.png)(img/*.jpg/*.png/Fionas-kitchen.png)
 
+![Write an alternative text description.](img/*.jpg/*.png/Fionas-kitchen.png)
+
 A 3D animated adventure about Fiona the frog that I am currently working on. 
 
 In her cozy cottage, Fiona is excitedly preparing a delightful tea party for her animal friends. Despite her efforts, Fiona becomes sad when her friends don't show up. Sadly, she starts putting away the dishes and cupcakes, thinking her party evening is ruined. 
