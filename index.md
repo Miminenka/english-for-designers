@@ -2,7 +2,7 @@
     - [A Selection Of My Projects](work/index.md)
     - [Writing](writing/index.md)
 
-![Me sitting in a podcasting seat in the studio.](img/portrait-studio-una.jpg)
+![Me tying up my hair while standing in front of a projection of famous paintings in a modern gallery.](img/jancarova-headshot.jpg)
 
 ## Hey! I’m Mimi, a Multidisciplinary Artist. 
 
