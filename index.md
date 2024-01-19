@@ -3,7 +3,7 @@
     - [A Selection Of My Projects](work/index.md)
     - [Writing](writing/index.md)
 
-![Me tying up my hair while standing in front of a projection of famous paintings in a modern gallery.](img/jancarova-headshot.jpg)
+![Me tying up my hair while standing in front of a projection of famous paintings in a modern gallery.](img/)
 
 ## Hey! I’m Mimi, a Multidisciplinary Artist. 
 
