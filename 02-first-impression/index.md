@@ -24,8 +24,6 @@ I would love to illustrate a children's book and to open my own tattoo studio an
 
 As I navigate my creative journey, I'm eager to contribute my unique perspective to the animation industry. Join me on this exciting adventure where creativity knows no bounds, and every project is a canvas for magic.
 
-![An illustration of a striped cat.](img/cat.JPG)
-
 
 ## A Selection Of My Projects
 
