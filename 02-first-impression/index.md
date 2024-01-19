@@ -13,7 +13,7 @@
 
 ![Me tying up my hair while standing in front of a projection of famous paintings in a modern gallery.](img/*.jpg/*.png/jancarova-headshot.jpg)
 
-# Hey, I'm Mimi, a multidisciplinary artist. 
+### Hey, I'm Mimi, a multidisciplinary artist. 
 I'm an animation student with a passion for pushing the boundaries of creativity. I find joy in experimenting with various art media, striving to bring imagination to life in every project I undertake.
 
 Outside the realm of animation, you'll often find me in the kitchen, satisfying my love for baking (a delightful escape during moments of procrastination) or tending to my growing collection of house plants, or playing chess so I can finally beat my dad (or at least my baby brother).
