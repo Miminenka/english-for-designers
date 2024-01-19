@@ -9,3 +9,5 @@ I believe in cherishing every special occasion, and I love to bring people toget
 I would love to illustrate a children's book and to open my own tattoo studio and a flower shop in one one day. My goal is to once retire on a warm remote island where I would let my creative genius loose and create anything and everything while enjoying the ocean breeze.
 
 As I navigate my creative journey, I'm eager to contribute my unique perspective to the animation industry. Join me on this exciting adventure where creativity knows no bounds, and every project is a canvas for magic.
+
+![An illustration of a striped cat.](img/cat.JPG)
