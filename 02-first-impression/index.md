@@ -57,7 +57,7 @@ Although I initially thought of using this technique for my bachelor's film, the
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Stylized 3D model of a cottage in a fairytale forest. The cottage is just a little bit bigger than mushrooms and has a cozy terrace.](img/*.jpg/*.png/fionas-house.png)
+![Stylized 3D model of a cottage in a fairytale forest. The cottage is just a little bit bigger than mushrooms and has a cozy terrace.](img/*.jpg/*.png/Fionas-house.png)
 
 ![Stylized 3D model of a kitchen inside a cottage with pink cabinets, flowers, white table and chairs and many cute teacups.](img/*.jpg/*.png/Fionas-kitchen.png)
 
