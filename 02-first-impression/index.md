@@ -16,7 +16,7 @@
 ### Hey, I'm Mimi, a multidisciplinary artist. 
 I'm an animation student with a passion for pushing the boundaries of creativity. I find joy in experimenting with various art media, striving to bring imagination to life in every project I undertake.
 
-Outside the realm of animation, you'll often find me in the kitchen, satisfying my love for baking (a delightful escape during moments of procrastination) or tending to my growing collection of house plants, or playing chess so I can finally beat my dad (or at least my baby brother).
+Outside the realm of animation, you'll often find me in the kitchen, satisfying my love for baking (a delightful escape during moments of procrastination), tending to my growing collection of house plants or playing chess so I can finally beat my dad (or at least my baby brother).
 
 I believe in cherishing every special occasion, and I love to bring people together by organizing memorable yet intimate parties. Whether it's a promotion or a random Tuesday, I find any excuse to celebrate and share joy with those around me.
 
